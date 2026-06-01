@@ -1,2 +1,3 @@
-# AuctionX
-Experience the thrill of premium, real-time auctions right on your fingertips
+# AuctioNex
+
+An auction system project where user can post as well as bid on items.
